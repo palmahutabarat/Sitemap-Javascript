@@ -2,7 +2,7 @@
  * Blogger Tabbed Style Table of Content Widget by PAMBAH Corporation
  * Free for change but keep the original attribution.
  * URL: https://plus.google.com/u/0/105343109942045056844/about
- * TEMPLATES: &lt;div id="tabbed-toc"&gt;&lt;span class="loading"&gt;Loading...&lt;/span&gt;&lt;/div&gt;&lt;script type="text/javascript"&gt;var tabbedTOC = {blogUrl:"http://latitudu.blogspot.com", containerId: "tabbed-toc", activeTab: 1};&lt;/script&gt;&lt;script type="text/javascript" src="js/tabbed-toc.js"&gt;&lt;/script&gt;
+ * TEMPLATES: &lt;div id="tabbed-toc"&gt;&lt;span class="loading"&gt;Loading...&lt;/span&gt;&lt;/div&gt;&lt;script type="text/javascript"&gt;var tabbedTOC = {blogUrl:"http://palmahutabarat69.blogspot.com", containerId: "tabbed-toc", activeTab: 1};&lt;/script&gt;&lt;script type="text/javascript" src="js/tabbed-toc.js"&gt;&lt;/script&gt;
  */
 
 var tabbedTOC_defaults = {
